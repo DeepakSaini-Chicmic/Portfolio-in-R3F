@@ -74513,8 +74513,7 @@ function $te() {
               font: "./bangers-v20-latin-regular.woff",
               "rotation-y": -1.25,
               position: [2, 0.75, 0.76],
-              children: `Bruno
-Simon`,
+              children: `Flavilla`,
               textAlign: "center",
             }),
             Rr.jsx("rectAreaLight", {
